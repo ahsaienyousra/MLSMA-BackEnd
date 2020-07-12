@@ -15,7 +15,7 @@ public class ScrapingBehaviour3 extends Behaviour {
 	public void action() {
 	  try { String s = null; 
 	  //chemin script scraping_deaths
-	  process = Runtime.getRuntime().exec("python C:\\Users\\HP\\Desktop\\Corona-virus\\corona-virus.py");
+	  process = Runtime.getRuntime().exec("python C:\\Users\\HP\\Desktop\\Corona-virus\\scraping_deaths.py");
 	  BufferedReader in = new BufferedReader(new
 	  InputStreamReader(process.getInputStream()));
 	  while ((s = in.readLine()) != null) {

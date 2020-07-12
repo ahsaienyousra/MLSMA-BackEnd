@@ -14,7 +14,7 @@ public class ScrapingBehaviour2 extends Behaviour {
 	public void action() {
 	  try { String s = null; 
 	  //chemin script scraping_statistics
-	  process = Runtime.getRuntime().exec("python C:\\Users\\HP\\Desktop\\Corona-virus\\corona-virus.py");
+	  process = Runtime.getRuntime().exec("python C:\\Users\\HP\\Desktop\\Corona-virus\\statistics.py");
 	  BufferedReader in = new BufferedReader(new
 	  InputStreamReader(process.getInputStream()));
 	  while ((s = in.readLine()) != null) {
