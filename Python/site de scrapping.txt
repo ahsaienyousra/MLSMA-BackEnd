@@ -1,0 +1,4 @@
+https://www.worldometers.info/coronavirus/#countries
+https://github.com/CSSEGISandData/COVID-19/blob/web-data/data/cases_country.csv?fbclid=IwAR069_Fi-OR0kzOl3oUVZPFE1qWxAVFegaGdejKLyMg6UY35bo04NoscAyo
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv?fbclid=IwAR0V8qbQlnxFWhHn271xXzpk13vHG7U50F1Dq0VKMcp_zPw9IHGqZj12ptg
+https://www.worldometers.info/coronavirus/coronavirus-death-toll/?fbclid=IwAR3gYa5QMjBbdxQXjATiyrxxdBJIpA5Etidcgov7DH3h8IhliDi1k8KT2WA
